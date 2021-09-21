@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "51DB11A1-265A-4681-A43B-F243F431C18B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C640737-3EB2-43D5-ABA8-882DE525BF24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicPlayer/Search/Cell/TrackCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "TrackCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7C640737-3EB2-43D5-ABA8-882DE525BF24 - 92de315e2476f68e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicPlayer.TrackCell.collectiionNameLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MusicPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/APP%20space/MusicPlayer/MusicPlayer/Search/Cell/TrackCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7C640737-3EB2-43D5-ABA8-882DE525BF24 - 2015ba046b8252ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicPlayer.TrackCell.collectiionNameLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MusicPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/APP%20space/MusicPlayer/MusicPlayer/Search/Cell/TrackCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "7C640737-3EB2-43D5-ABA8-882DE525BF24 - fad826c39db6de29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicPlayer.TrackCell.collectiionNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MusicPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/APP%20space/MusicPlayer/MusicPlayer/Search/Cell/TrackCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "7C640737-3EB2-43D5-ABA8-882DE525BF24 - 35d13e7474727bbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicPlayer.TrackCell.collectiionNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MusicPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/APP%20space/MusicPlayer/MusicPlayer/Search/Cell/TrackCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "7C640737-3EB2-43D5-ABA8-882DE525BF24 - edb77048464bcca4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicPlayer.TrackCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; MusicPlayer.TrackCell"
+                  moduleName = "MusicPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/APP%20space/MusicPlayer/MusicPlayer/Search/Cell/TrackCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "375">
+               </Location>
+               <Location
+                  uuid = "7C640737-3EB2-43D5-ABA8-882DE525BF24 - d3f576b3fd7c64a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicPlayer.TrackCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MusicPlayer.TrackCell&gt;"
+                  moduleName = "MusicPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/APP%20space/MusicPlayer/MusicPlayer/Search/Cell/TrackCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "322">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
